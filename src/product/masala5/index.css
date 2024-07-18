@@ -1,0 +1,31 @@
+.progress-bar-container {
+    width: 100%;
+    max-width: 500px;
+    height: 300px;
+    margin: 20px auto;
+    text-align: center;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: rgb(135, 222, 219);
+    margin-top: 50px;
+  }
+  
+  .progress-bar {
+    height: 30px;
+    background-color: #4caf50;
+    width: 0;
+    transition: width 0.5s;
+  }
+  
+  .progress-buttons {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 80px;
+
+  }
+  button:hover {
+    background-color: #ddd;
+  }
+  

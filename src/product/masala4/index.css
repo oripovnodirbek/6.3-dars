@@ -1,0 +1,19 @@
+.game-picker {
+    width: 500px;
+    height: 300px;
+    border: 4px solid rgb(220, 202, 214);
+    border-radius: 9px;
+    background-color:rgb(220, 202, 214);
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Poppins', sans-serif;
+    margin-top: 40px;  
+}
+.game-picker button {
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 70px;
+}

@@ -1,0 +1,29 @@
+
+
+.card1 {
+  width: 500px;
+  height: 300px;
+  border: 4px solid rgb(0, 255, 4);
+  border-radius: 9px;
+  background-color: rgb(0, 255, 4);
+  margin-left: auto;
+  margin-right: auto;
+  font-family: 'Poppins', sans-serif;
+  
+}
+.card1 h2 {
+  font-size: 60px;
+  display: flex;
+  justify-content: center;
+}
+.card1_but {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.card1_but button {
+  width: 70px;
+  height: 70px;
+  border: none;
+  border-radius: 50%;
+}
